@@ -1,4 +1,4 @@
-package fuckingExam;
+package mockExam;
 
 public class InvalidDataException extends Exception{
     public InvalidDataException(String message) {

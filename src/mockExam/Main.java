@@ -1,4 +1,4 @@
-package fuckingExam;
+package mockExam;
 
 import java.io.IOException;
 import java.sql.SQLException;

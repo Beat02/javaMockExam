@@ -1,4 +1,4 @@
-package fuckingExam;
+package mockExam;
 
 import java.time.LocalDate;
 import java.time.Period;

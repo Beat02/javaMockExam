@@ -1,9 +1,8 @@
-package fuckingExam;
+package mockExam;
 
 import java.sql.*;
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.List;
 
 public class DataBaseManager {
     private static final String URL = "jdbc:mysql://localhost:3306/personas";
